@@ -8,4 +8,8 @@ The leadership is interested in viewing the metrics from both an operations and 
 
 ## Data Used
 -	<a href="https://www.theforage.com/virtual-experience/MyXvBcppsW2FkNYCX/tata-group/data-visualisation-p5xo/creating-effective-visuals">Dataset</a>
--	<a href="https://github.com/Bolatito12/ONLINE-RETAIL-STORE-ANALYSIS/blob/main/Online%20Retail%20Store.pbix">Dataset</a>
+
+ **Revenue Trends** | How does revenue fluctuate monthly, and why do seasonal trends occur (especially in 2011)? |
+ **Top Countries by Revenue** | Which 10 countries generate the highest revenue, excluding the UK? How does revenue compare to the quantity sold? |
+ **Top 10 Customers** | Who are the top 10 revenue-generating customers, ranked from highest to lowest? |
+ **Regional Demand Analysis** | Which countries (excluding the UK) have the highest demand, supporting business expansion opportunities? |
