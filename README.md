@@ -19,7 +19,7 @@ The leadership is interested in viewing the metrics from both an operations and 
 4 **Regional Demand Analysis** : Which countries (excluding the UK) have the highest demand, supporting business expansion opportunities? 
 
 ##  Data Cleaning & Transformation
-- **Data Validation:** Ensured that **Quantity is not less than 1** and **Price is not less than 0**.
+- **Data Validation:** Ensured that **Quantity should not be below 1** unit and **Price is not less than $0**.
  
 - **Data Formatting:** Standardized **data types** and **text format** for consistency.
   
