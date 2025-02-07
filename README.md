@@ -25,5 +25,6 @@ The leadership is interested in viewing the metrics from both an operations and 
   
 - **New Column (Revenue):** Created using **DAX calculations** in Power BI (**Revenue = Quantity × Unit Price**).
 
+<img width="881" alt="RETAIL DATA" src="https://github.com/user-attachments/assets/cae2e498-2724-44fc-8011-6a4254be3267" />
 
 
