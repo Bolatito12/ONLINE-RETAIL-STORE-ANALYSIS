@@ -7,6 +7,5 @@ The business has been performing well and the management wants to analyse what t
 The leadership is interested in viewing the metrics from both an operations and marketing perspective. Management also intends to expand the business and is interested in seeking guidance into areas that are performing well so they can keep a clear focus on what’s working. They would also like to view different metrics based on the demographic information that is available in the data.
 
 ## Data Used
-- <a href="https://www.theforage.com/virtual-experience/MyXvBcppsW2FkNYCX/tata-group/data-visualisation-p5xo/creating-effective-visuals”>Dataset</a>
+-	<a href=”https://archive.ics.uci.edu/dataset/352/online+retail”>Dataset</a>
 
-- <a href="https://github.com/Bolatito12/ONLINE-RETAIL-STORE-ANALYSIS/blob/main/Online%20Retail%20Store.pbix”>Dataset</a>
