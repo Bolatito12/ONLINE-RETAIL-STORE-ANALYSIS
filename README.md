@@ -27,4 +27,12 @@ The leadership is interested in viewing the metrics from both an operations and 
 
 <img width="881" alt="RETAIL DATA" src="https://github.com/user-attachments/assets/cae2e498-2724-44fc-8011-6a4254be3267" />
 
+## 🚀 Business Impact
+✅ Identifies seasonal sales trends and revenue fluctuations  
+✅ Helps understand **high-value customers** and their buying patterns  
+✅ Supports expansion planning by identifying **top-performing countries**  
+✅ Optimizes inventory and marketing strategies based on demand trends  
+
+
+
 
