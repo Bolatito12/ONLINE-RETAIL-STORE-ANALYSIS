@@ -16,4 +16,12 @@ The leadership is interested in viewing the metrics from both an operations and 
 
 3 **Top 10 Customers** : Who are the top 10 revenue-generating customers, ranked from highest to lowest? 
 
+##  Data Cleaning & Transformation
+- **Data Validation:** Ensured that **Quantity is not less than 1** and **Price is not less than 0**.
+- 
+- **Data Formatting:** Standardized **data types** and **text format** for consistency.
+- 
+- **New Column (Revenue):** Created using **DAX calculations** in Power BI (**Revenue = Quantity × Unit Price**).
+
+
 4 **Regional Demand Analysis** : Which countries (excluding the UK) have the highest demand, supporting business expansion opportunities? 
