@@ -1,2 +1,3 @@
 # ONLINE-RETAIL-STORE-ANALYSIS
-This project analyzes sales and customer purchasing behavior for an online retail store. Using Power BI, it provides insights into revenue trends, top-selling products, customer segmentation, and regional demand. The goal is to help the business optimize sales strategies and identify growth opportunities.
+This project utilizes Power BI to analyze transactional data from an online retail store, providing insights into sales trends, customer behavior, and regional demand.
+After importing the dataset into Power BI, data cleaning and transformation were performed using Power Query. This involved handling missing values, correcting date formats, removing duplicates, and standardizing fields to ensure data consistency.
